@@ -1,0 +1,30 @@
+/* Add your CSS styles here */
+.services-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.service {
+    width: 30%; /* Adjust as needed */
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.service h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+.service p {
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+img {
+  padding-right: 100px;
+}
+
+h3 {
+  font-size: 50px
+}
